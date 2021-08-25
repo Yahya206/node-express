@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/in43sh/node-express.git"
+    "url": "git+https://github.com/Yahya206/node-express.git"
   },
-  "author": "Sergey Sherstobitov",
+  "author": "yahya abdulgani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/in43sh/node-express/issues"
+    "url": "https://github.com/Yahya206/node-express/issues"
   },
-  "homepage": "https://github.com/in43sh/node-express#readme",
+  "homepage": "https://github.com/Yahya206/node-express#readme",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1"
